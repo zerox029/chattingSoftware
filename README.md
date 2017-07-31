@@ -1,0 +1,6 @@
+For some reason, I lost everything in this project. Maybe I forgot to push? I don't know...
+Anyhow, the point is, it's not on git nor on my disk. So... I'm kinda desperate as i've worked really hard on this
+and it is kind of necessary for the client version to work. 
+
+The exe is still available for download for those interested but be aware that no update of any kind
+will be distributed...
